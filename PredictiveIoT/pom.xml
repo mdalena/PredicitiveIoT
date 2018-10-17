@@ -17,7 +17,7 @@
         <jax.version>3.1.7</jax.version>
         <joda.version>2.2</joda.version>
         <ws.version>2.3.0.RELEASE</ws.version>
-		<httpclient.version>4.2.5</httpclient.version>
+		<httpclient.version>4.3.6</httpclient.version>
 		<math3.version>3.6</math3.version>
 		<lang3.version>3.4</lang3.version>
     </properties>
